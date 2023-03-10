@@ -1,1 +1,1 @@
-# shopify_min_theme
+# Shopify Min Theme
